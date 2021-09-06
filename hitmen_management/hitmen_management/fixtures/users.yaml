@@ -1,78 +1,104 @@
 - model: auth.User
   pk: 1
   fields:
+    first_name: Boss
+    last_name: One
     email: boss@example.com
     username: boss
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 2
   fields:
+    first_name: Manager
+    last_name: One
     email: manager1@example.com
     username: manager1
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 3
   fields:
+    first_name: Manager
+    last_name: Two
     email: manager2@example.com
     username: manager2
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 4
   fields:
+    first_name: Manager
+    last_name: Three
     email: manager3@example.com
     username: manager3
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 5
   fields:
+    first_name: Hitman
+    last_name: One
     email: hitman1@example.com
     username: hitman1
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 6
   fields:
+    first_name: Hitman
+    last_name: Two
     email: hitman2@example.com
     username: hitman2
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 7
   fields:
+    first_name: Hitman
+    last_name: Three
     email: hitman3@example.com
     username: hitman3
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 8
   fields:
+    first_name: Hitman
+    last_name: Four
     email: hitman4@example.com
     username: hitman4
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 9
   fields:
+    first_name: Hitman
+    last_name: Five
     email: hitman5@example.com
     username: hitman5
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 10
   fields:
+    first_name: Hitman
+    last_name: Six
     email: hitman6@example.com
     username: hitman6
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 11
   fields:
+    first_name: Hitman
+    last_name: Seven
     email: hitman7@example.com
     username: hitman7
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 12
   fields:
+    first_name: Hitman
+    last_name: Eight
     email: hitman8@example.com
     username: hitman8
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
 - model: auth.User
   pk: 13
   fields:
+    first_name: Hitman
+    last_name: Nine
     email: hitman9@example.com
     username: hitman9
     password: "pbkdf2_sha256$260000$DXSVitqWph1pdgA3ZbFoTd$Kt+y4BPW4SuxYef1yMw5tAqIgNSu8GOFZtwdQbRZcz0="
