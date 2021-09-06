@@ -1,0 +1,77 @@
+- model: users.HitmanProfile
+  pk: 1
+  fields:
+    user: 1
+    manages:
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      - 13
+- model: users.HitmanProfile
+  pk: 2
+  fields:
+    user: 2
+    manages:
+      - 5
+      - 6
+      - 7
+- model: users.HitmanProfile
+  pk: 3
+  fields:
+    user: 3
+    manages:
+      - 8
+      - 9
+      - 10
+- model: users.HitmanProfile
+  pk: 4
+  fields:
+    user: 4
+    manages:
+      - 11
+      - 12
+      - 13
+- model: users.HitmanProfile
+  pk: 5
+  fields:
+    user: 5
+- model: users.HitmanProfile
+  pk: 6
+  fields:
+    user: 6
+- model: users.HitmanProfile
+  pk: 7
+  fields:
+    user: 7
+- model: users.HitmanProfile
+  pk: 8
+  fields:
+    user: 8
+- model: users.HitmanProfile
+  pk: 9
+  fields:
+    user: 9
+- model: users.HitmanProfile
+  pk: 10
+  fields:
+    user: 10
+- model: users.HitmanProfile
+  pk: 11
+  fields:
+    user: 11
+- model: users.HitmanProfile
+  pk: 12
+  fields:
+    user: 12
+- model: users.HitmanProfile
+  pk: 13
+  fields:
+    user: 13
